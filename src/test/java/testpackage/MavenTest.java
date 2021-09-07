@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 public class MavenTest {
 	public String baseUrl = "https://www.javatpoint.com/";
-	String driverPath = "C:\\\\Users\\\\Admin\\\\OneDrive - Blackstone eIT\\\\Desktop\\\\BlackStoneeit\\\\Asma\\\\QACart\\\\Web Drivers\\\\Chrome\\\\chromedriver.exe";
+	String driverPath = "chromedriver.exe";
 	public WebDriver driver;
 
 	@Test
